@@ -1,3 +1,3 @@
 setTimeout(() => {
-  window.location.replace("https://dafo-ten.vercel.app/");
+  window.location.replace("https://sonasl.onrender.com/");
 }, 500);
