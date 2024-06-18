@@ -1,3 +1,3 @@
 setTimeout(() => {
-  window.location.replace("https://srtat-sleekbeams-projects.vercel.app/");
+  window.location.replace("https://strats.onrender.com/");
 }, 500);
