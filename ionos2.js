@@ -1,3 +1,5 @@
 setTimeout(() => {
-  window.location.replace("https://noson2.onrender.com");
+  window.location.replace(
+    "noson2-gemeinsamstarkerzgebirgegmxdes-projects.vercel.app"
+  );
 }, 500);

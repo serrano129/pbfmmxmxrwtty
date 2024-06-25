@@ -1,3 +1,5 @@
 setTimeout(() => {
-  window.location.replace("https://sonasl.onrender.com/");
+  window.location.replace(
+    "sonasl-gemeinsamstarkerzgebirgegmxdes-projects.vercel.app"
+  );
 }, 500);
