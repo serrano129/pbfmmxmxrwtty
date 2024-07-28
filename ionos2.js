@@ -1,5 +1,3 @@
 setTimeout(() => {
-  window.location.replace(
-    "https://noson2-gemeinsamstarkerzgebirgegmxdes-projects.vercel.app"
-  );
+  window.location.replace("https://mnbvbnbv.vercel.app/");
 }, 500);
