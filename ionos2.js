@@ -1,4 +1,4 @@
 setTimeout(() => {
   // bf
-  window.location.replace("https://puny-branch-fast.on-fleek.app/");
+  window.location.replace("https://nosos-agrar-butchers-projects.vercel.app");
 }, 500);
