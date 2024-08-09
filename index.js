@@ -1,3 +1,3 @@
 setTimeout(() => {
-  window.location.replace("https://strats.vercel.app/");
+  window.location.replace("https://koiling-lkdhs-projects.vercel.app/");
 }, 500);
